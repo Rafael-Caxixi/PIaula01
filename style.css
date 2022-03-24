@@ -1,0 +1,55 @@
+
+
+
+        h1 {
+
+            color: blue; 
+            font-family: monospace;
+
+        }
+
+        h2 {
+
+            color: red; 
+            font-family: monospace;
+
+        }
+
+        span {
+
+            color: gray; 
+            font-family: monospace;
+
+        }
+
+        b {
+
+            color:black; 
+            font-family: monospace; 
+            font-size: 18px;
+        }
+
+        i {
+
+            color: black;
+            font-family: monospace;
+        
+
+        }
+
+        .destaque {
+
+            background-color:brown ;
+            font-family: monospace;
+            font-size: 25px;
+
+        }
+
+        #destaqueEspecial {
+
+            background-color: aquamarine;
+            font-family: monospace;
+
+        }
+   
+   
